@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nina Sol Marotta</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Java and Spring framework**
+- 👨‍💻 Working at Technisys as a FullStack developer
+
+- 🌱 I’m currently learning **FullStack development with Java and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NinaSol](https://github.com/NinaSol)
 
